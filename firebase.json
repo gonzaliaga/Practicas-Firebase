@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "imperial-comidas",
-  "private_key_id": "695620ff2887df330d2a9da1dde97d33e0047251",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4MqNbYPlHTLQS\nauMrdFJAQKgqf7XZZ/798hzjHEGz44+5XtSvoRRM4P2s6cYta44//NpqcLrYAWVm\nVUNnrvVVQpvuP2MEyAvPEUWlZpvqQUQrKOfpfktN3nA/FKr6FnPomn2c5Ak9Oolo\nMS8ft87Ok1m4q5SbfgNR6HPs4BjwXiV9vwoQz1Ev7rB6ncY/g/oJm2m6c+eHA9ks\nFI8bYbbzjs+WH0VTQlxhVRUWDXuGV58z/XYPcMZz6Jj1upBYhuaqoKs1o88lND2D\nTcTxNZk9ipKoB5S436ClLHWU8HDDF8DKSTSNK6JoQgaXPtosq/VsNaJyoApv0tHo\n3ozSJdSpAgMBAAECggEAPMD3AHzLu6ig/DIlG4ASYP7yeJIG+N5ETJ4+yOnZAexc\ny1dr70HB4FmVUiMJKpH/KTvNDq5/8h8Dwuz8foZGhQijRcHCdyFEQ9f+kL93TZyZ\nT2L+mxT84YIso6G9gx9Eu8O5CrZsFbXo/GS8lkmZ/Ki9PxvYuDCoB6wUEF0Z3K2h\ncuZ1HdhzWeycM+pNERPNerHa395H4N9g7T/igWSi+k4pou5Z82SrTPrOllEkX9lk\nI9cC3LxhaM8cwrQ57sKbAcyYRLFgKA1OuBg972kAN9AGjfnKl14bfMrozs/6Oo6M\nCNw+9diRGQHm4LiKl1FEfwnXvzvkilGVHTccbTP8wQKBgQDiEoH2ZqrkdfA8J/P0\npAo6BAdikc+PngHZGEfF+7fFluHDp+RYNmeIocZuxEgRIptqydIwf45AqVJOZaGP\nXzul9dIEgA5f+gzM8bQXDvA2oRWzq154kBtHVrkhWehAE8FpFAg5xhgdS+9csQpd\n7e2V7wQK76LZx93IjQEIG7Da5wKBgQDQlQWmqEa1RdZmS2K/qRvHzwNhttcI5zdq\nOzQ/6xc58u1tICkmsmDPv90mlyCfb1ILI4wFeGWr0TaIgR3H5vRZ2y77ZVDIHet7\nHb1r2dny/gplvMxxamqvxiHIRbqU/U2MTV5CADZ+RTeRbI9OY+6+CmIFTtYcTqKd\njb7lfZrx7wKBgQDTT81ezbRq+7pj4ExtnW9Zry5f+j7y1RSRIdrkulaaQGAijCoq\nMiAwXFaobpuWOKzg8mifoHsNAbfHQ8PxyWhtxgpa3n+RQp74aeyVqQbraUJpwIL7\nWmfFFNDS1cD7M/wTBgByUDF2IOZJ08oG5kCvZsx2lGu5+NHbhcEzHP8AfQKBgB4X\nkdQkbOcUJ0Vk1N9P13kxLYy4YzeenAkQd45NLXGn0Ycv35/8likCxjYeEY/O8Kg4\nvafAYfKy4Uo6ToCbml8oVxPf3xKv9lwxwzU/HcmHyxo4bcpjDvdC/3a0UKHUFY8L\nTnD5NONsuwKZBefKVRRHzTJ02EEHO0C9xW+4elUzAoGBAL1l6RQ7Sy5Zyf+88CL/\n85J+6kuBD+zILEJFESBKlHeeo1j4CVW6gksZZ3ih9symqVA3Eoy+Hm4FUoXsPQHX\nnzIrzqt+dh2eotVg41E+MG2LKIbbOuTLbmFiS8DgNcaONqW3AlFLeVmU0Q+vbDMT\n72YXkgnIbluM4F/Urhr59AFr\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-xiokg@imperial-comidas.iam.gserviceaccount.com",
-  "client_id": "116529244534614634098",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xiokg%40imperial-comidas.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
