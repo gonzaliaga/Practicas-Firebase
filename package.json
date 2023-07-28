@@ -1,0 +1,24 @@
+{
+  "name": "appimperial",
+  "version": "1.0.0",
+  "description": "App de Comidas Rapidas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.0",
+    "firebase-admin": "^11.10.1",
+    "morgan": "^1.10.0",
+    "sweetalert2": "^11.7.20"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
